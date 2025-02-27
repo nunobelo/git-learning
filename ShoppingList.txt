@@ -7,3 +7,5 @@ Bananas
 Water
 Cheese
 Ham
+Cereal
+Cherries
